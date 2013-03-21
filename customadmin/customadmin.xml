@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<webtop>	
+	<section id="admin">		
+		<subsection id="domainmanager" label="Domain Management">
+	        <menu id="domainmanage" label="Domain Management">
+	        		<menuitem id="domainmanagement" label="Manage Domains" labelType="text" link="/admin/customadmin.cfm?module=customlists/fcbDomain.cfm&amp;plugin=fcbDomain" />
+	        </menu>
+	  	</subsection>
+	</section>
+</webtop>
